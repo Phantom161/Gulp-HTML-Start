@@ -351,6 +351,7 @@ MigrationBackup/
 
 /node_modules/
 /dist/
+/.git/
 /app/
 /**/_backstage
 /**/package-lock.json
